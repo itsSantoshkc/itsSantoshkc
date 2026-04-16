@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="mailto:santoshkc7786@gmail.com">santoshkc7786@gmail.com</a> ·
-  <a href="https://linkedin.com/in/YOUR_HANDLE">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/santosh-k-b923a2206/">LinkedIn</a> ·
   <a href="https://YOUR_PORTFOLIO.com">Portfolio</a>
 </p>
 
@@ -16,9 +16,6 @@
 I'm a self-driven BCA student who builds full-stack web applications to solve real problems.
 My projects span real-time systems, e-commerce platforms, and browser-based design tools —
 each one pushing me to learn something new.
-
-Currently seeking a **software development internship** where I can contribute to production systems
-and grow alongside an experienced team.
 
 ---
 
