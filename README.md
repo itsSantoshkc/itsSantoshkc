@@ -15,7 +15,7 @@
 
 I'm a self-driven BCA student who builds full-stack web applications to solve real problems.
 My projects span real-time systems, e-commerce platforms, and browser-based design tools —
-each one pushing me to learn something new.
+each one pushing me to learn something new
 
 ---
 
