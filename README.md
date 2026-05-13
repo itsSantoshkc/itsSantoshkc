@@ -19,7 +19,7 @@ I'm a self-driven BCA student who builds full-stack web applications to solve re
 
 ---
 
-### 🛠️ Tech I work with
+###  Tech I work with
 
 **Languages**
 
