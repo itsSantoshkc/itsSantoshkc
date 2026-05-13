@@ -13,7 +13,7 @@
 
 ---
 
-### 🙋 About me
+###  About me
 
 I'm a self-driven BCA student who builds full-stack web applications to solve real problems - real-time systems, e-commerce platforms, browser-based design tools and more, each one pushing me to learn something new.
 
