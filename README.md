@@ -1,21 +1,19 @@
 <!-- Header -->
-<h1 align="center">Hey, I'm Santosh 👋</h1>
+<h1 align="center">Hey, I'm Santosh </h1>
 <p align="center">
-  Full-stack developer in the making · BCA @ Tribhuvan University · Nepal
+  Aspiring Software Engineer · BCA @ Tribhuvan University · Nepal
 </p>
 <p align="center">
   <a href="mailto:santoshkc7786@gmail.com">santoshkc7786@gmail.com</a> ·
   <a href="https://www.linkedin.com/in/santosh-k-b923a2206/">LinkedIn</a> ·
-  <a href="https://YOUR_PORTFOLIO.com">Portfolio</a>
+  <a href="https://itssantoshkc.github.io/portfolio/">Portfolio</a>
 </p>
 
 ---
 
 ### About me
 
-I'm a self-driven BCA student who builds full-stack web applications to solve real problems.
-My projects span real-time systems, e-commerce platforms, and browser-based design tools -
-each one pushing me to learn something new
+I'm a self-driven BCA student who builds full-stack web applications to solve real problems. My projects have been real-time systems, e-commerce platforms,  browser-based design tools and many more where each one pushing me to learn something new
 
 ---
 
